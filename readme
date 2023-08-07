@@ -1,3 +1,9 @@
+FAKE-USDT-ERC20 TOKEN
 Here in this contract we are firstly importing the functionalitites of Ownable , ERC20 , SafeERC20 and ERCBurnavle contracts . 
 we are taking the name of token that is TETHER USD , and the symbol of the token  that is USDT . 
 we have defind the function mint which will mint the tokens taking the amount of tokens to be minted and the address to which the token will be transfered after mingting , the function can only be called by the owner only . 
+
+
+WETH TOKENS ---
+
+Here we are creating the wrapped eth tokens to provide liquidty and smooth transaction of tokens 
